@@ -1,4 +1,31 @@
 #sidebar{
     background-color: blue;
     color: #fff;
+    padding-left: 5px;
+    width: 250px;
+    height: 500px;
+    display: flex;
+    
+}
+
+header{
+    background-color: green;
+    color: #fff;
+    padding-left: 0px;
+    width: auto;
+    height: 100px;
+    display: flex;
+}
+
+footer{
+    background-color: grey;
+    color: #fff;
+    padding-left: 0px;
+    width: auto;
+    height: 100px;
+    display: flex;
+}
+
+#content{
+    
 }
